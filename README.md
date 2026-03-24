@@ -51,4 +51,4 @@ I have been building my foundational knowledge through hands-on learning platfor
 </div>
 
 ## Projects
-- msf-attack-detect-lab
+- <a href="https://github.com/ashvinpbenny/meterpreter-attack-detection-lab/tree/main">meterpreter-attack-detection-lab</a>
